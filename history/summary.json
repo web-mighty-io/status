@@ -4,17 +4,19 @@
     "url": "https://web-mighty.io",
     "icon": "https://favicons.githubusercontent.com/web-mighty.io",
     "slug": "web-mighty",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 657,
-    "timeDay": 754,
-    "timeWeek": 691,
-    "timeMonth": 657,
-    "timeYear": 657,
-    "dailyMinutesDown": {}
+    "time": 698,
+    "timeDay": 1213,
+    "timeWeek": 814,
+    "timeMonth": 698,
+    "timeYear": 698,
+    "dailyMinutesDown": {
+      "2021-02-15": 0
+    }
   }
 ]
