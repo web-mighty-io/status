@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/web-mighty.io",
     "slug": "web-mighty",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
-    "time": 689,
-    "timeDay": 633,
-    "timeWeek": 653,
-    "timeMonth": 677,
-    "timeYear": 689,
+    "uptimeYear": "99.97%",
+    "time": 688,
+    "timeDay": 628,
+    "timeWeek": 649,
+    "timeMonth": 676,
+    "timeYear": 688,
     "dailyMinutesDown": {
       "2021-02-15": 27
     }
