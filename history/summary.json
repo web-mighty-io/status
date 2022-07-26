@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/web-mighty.io",
     "slug": "web-mighty",
     "status": "down",
-    "uptime": "31.73%",
+    "uptime": "31.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 472,
-    "timeDay": 231,
-    "timeWeek": 246,
-    "timeMonth": 269,
-    "timeYear": 359,
+    "time": 471,
+    "timeDay": 292,
+    "timeWeek": 250,
+    "timeMonth": 270,
+    "timeYear": 358,
     "dailyMinutesDown": {
-      "2022-07-25": 31,
+      "2022-07-26": 33,
+      "2022-07-25": 1440,
       "2022-07-24": 1440,
       "2022-07-23": 1440,
       "2022-07-22": 1440,
@@ -379,8 +380,7 @@
       "2021-07-30": 1440,
       "2021-07-29": 1440,
       "2021-07-28": 1440,
-      "2021-07-27": 1440,
-      "2021-07-26": 1440
+      "2021-07-27": 1440
     }
   }
 ]
