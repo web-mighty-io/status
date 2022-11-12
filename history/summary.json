@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/web-mighty.io.ico",
     "slug": "web-mighty",
     "status": "down",
-    "uptime": "26.45%",
+    "uptime": "26.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 358,
-    "timeDay": 268,
-    "timeWeek": 361,
-    "timeMonth": 284,
+    "time": 357,
+    "timeDay": 261,
+    "timeWeek": 364,
+    "timeMonth": 283,
     "timeYear": 278,
     "dailyMinutesDown": {
-      "2022-11-11": 36,
+      "2022-11-12": 35,
+      "2022-11-11": 1440,
       "2022-11-10": 1440,
       "2022-11-09": 1440,
       "2022-11-08": 1440,
@@ -379,8 +380,7 @@
       "2021-11-16": 1440,
       "2021-11-15": 1440,
       "2021-11-14": 1440,
-      "2021-11-13": 1440,
-      "2021-11-12": 1440
+      "2021-11-13": 1440
     }
   }
 ]
