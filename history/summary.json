@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/web-mighty.io.ico",
     "slug": "web-mighty",
     "status": "down",
-    "uptime": "21.01%",
+    "uptime": "20.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 275,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 267,
+    "timeYear": 268,
     "dailyMinutesDown": {
-      "2023-04-30": 29,
+      "2023-05-01": 28,
+      "2023-04-30": 1440,
       "2023-04-29": 1440,
       "2023-04-28": 1440,
       "2023-04-27": 1440,
@@ -379,8 +380,7 @@
       "2022-05-05": 1440,
       "2022-05-04": 1440,
       "2022-05-03": 1440,
-      "2022-05-02": 1440,
-      "2022-05-01": 1440
+      "2022-05-02": 1440
     }
   }
 ]
